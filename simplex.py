@@ -1,7 +1,7 @@
 from fractions import Fraction
 from warnings import warn
 
-
+##
 class Simplex(object):
     def __init__(self, num_vars, constraints, objective_function):
         """
